@@ -1,2 +1,2 @@
 # ExemploGITdesk
-# Exercício de aplicação do GIT Desktop.
+# Exercício de aplicação do GIT DESKTOP.
